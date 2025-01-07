@@ -9,3 +9,7 @@
 ## Transportavtalet
 
 * https://www.transport.se/medlemskap/kollektivavtal
+
+## Tunnbrödsavtalet
+
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/tunnbrod-avtal-2017-2020.pdf
