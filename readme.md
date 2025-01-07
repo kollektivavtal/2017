@@ -6,6 +6,11 @@
 * https://www.srat.se/rad-och-stod/kollektivavtal/vara-olika-avtal/anstalld-inom-gym-och-friskvard/
 * https://www.unionen.se/kollektivavtal/almega-tjansteforetagen-gym-och-friskvardsforetag
 
+## Spisbrödsavtalet
+
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/spisbrod-avtal-2017-2020.pdf
+* https://arbetet.se/2016/04/29/fem-fackliga-tweets-vecka-17-2016/
+
 ## Transportavtalet
 
 * https://www.transport.se/medlemskap/kollektivavtal
