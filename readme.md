@@ -26,3 +26,8 @@
 ## Tunnbrödsavtalet
 
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/tunnbrod-avtal-2017-2020.pdf
+
+## Väg- och Banavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vag-och-ban/dokument-vag--och-banavtalet/traffade-avtal-vag--och-banavtalet/avtal_2017_supplement_to_the_road_and_rail_agreement_2014-2016_20170828.pdf
