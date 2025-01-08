@@ -1,5 +1,9 @@
 # Kollektivavtalsarkivet 2017
 
+## Folkets Hus och Parker
+
+* https://www.musikerforbundet.se/wp-content/uploads/2017/10/Kollektivavtal-Folkets-Hus-och-Parker-2017-2020.pdf
+
 ## Friskvårdsavtalet
 
 * https://active-landvetter.se/wp-content/uploads/2018/11/gym-och-friskvard-6589-1807-med-pbb-2018-1-juli.pdf
