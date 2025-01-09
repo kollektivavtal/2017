@@ -10,6 +10,12 @@
 * https://www.srat.se/rad-och-stod/kollektivavtal/vara-olika-avtal/anstalld-inom-gym-och-friskvard/
 * https://www.unionen.se/kollektivavtal/almega-tjansteforetagen-gym-och-friskvardsforetag
 
+## Järnvägsinfrastrukturavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vag-och-ban/dokument-jarnvagsinfrastruktur/traffade-avtal-jarnvagsinfrastruktur/avtal_jarnvagsinfrastruktur2017-2020_20171214.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vag-och-ban/dokument-jarnvagsinfrastruktur/traffade-avtal-jarnvagsinfrastruktur/avtal_jarnvagsinfrastruktur_2017-2020_forhandlingsprotokoll_20170529.pdf
+
 ## Spisbrödsavtalet
 
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/spisbrod-avtal-2017-2020.pdf
