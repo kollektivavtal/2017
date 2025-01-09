@@ -1,5 +1,11 @@
 # Kollektivavtalsarkivet 2017
 
+## Fastighetsavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/fastigheter/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/fastigheter/fastigheter-tjansteman-kollektivavtal-reviderad-med-karensavdrag-och-basbelopp-2017-2020.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-fastigheter/dokument-fastigheter-tjansteman/traffade-avtal-fastigheter-tjansteman/avtal_protokoll_fastigheter_tjansteman_2017-2020_20170704.pdf
+
 ## Folkets Hus och Parker
 
 * https://www.musikerforbundet.se/wp-content/uploads/2017/10/Kollektivavtal-Folkets-Hus-och-Parker-2017-2020.pdf
