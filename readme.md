@@ -48,3 +48,8 @@
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vag-och-ban/dokument-vag--och-banavtalet/traffade-avtal-vag--och-banavtalet/avtal_2017_supplement_to_the_road_and_rail_agreement_2014-2016_20170828.pdf
+
+## Värdepappersavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/vardepapper/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vardepapper/traffade-avtal-vardepapper/avtal_forhandlingsprotokoll_vardepapper_2017-2020_20170613.pdf
