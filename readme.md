@@ -22,6 +22,12 @@
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vag-och-ban/dokument-jarnvagsinfrastruktur/traffade-avtal-jarnvagsinfrastruktur/avtal_jarnvagsinfrastruktur2017-2020_20171214.pdf
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-vag-och-ban/dokument-jarnvagsinfrastruktur/traffade-avtal-jarnvagsinfrastruktur/avtal_jarnvagsinfrastruktur_2017-2020_forhandlingsprotokoll_20170529.pdf
 
+## Lerniaavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/lernia/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-lernia/traffade-avtal-lernia/avtal_lernia_protokoll_2017-2020_20170714.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-lernia/traffade-avtal-lernia/avtal_lernia_protokoll_villkorsandringar_vid_inforande_av_flexpension20170714.pdf
+
 ## Serviceentreprenadavtalet
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/serviceentreprenad/aktuella-avtal/
