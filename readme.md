@@ -1,5 +1,10 @@
 # Kollektivavtalsarkivet 2017
 
+## Energiavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/energi/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2017/ao-energi/dokument-efa/traffade-avtal-efa/avtal_branschavtal_energi_2017-2020_20170918.pdf
+
 ## Fastighetsavtalet
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/fastigheter/aktuella-avtal/
